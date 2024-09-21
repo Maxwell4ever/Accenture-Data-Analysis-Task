@@ -22,7 +22,7 @@ My team has been assigned a new project for a client called Social Buzz.
 
 Understand the client and business problem at hand.
 Identify the requirements that need to be delivered for this project.
-Identify which tasks you should focus on as a Data Analyst.
+Identify which tasks to focus on as a Data Analyst.
 
 ## What do we mean by that?
 

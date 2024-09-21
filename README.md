@@ -27,9 +27,9 @@ Identify which tasks to focus on as a Data Analyst.
 ## What do we mean by that?
 
 ### The Business: 
-refers to the client and my internal team members who won’t be involved in detailed data analysis.
+Refers to the client and my internal team members who won’t be involved in detailed data analysis.
 They rely on my analysis to make strategic business decisions.
-Importantly, not everyone will has a strong understanding of data. My job is to communicate my data findings simply and clearly for everyone to understand.
+Importantly, not everyone had a strong understanding of data. My job is to communicate my data findings simply and clearly for everyone to understand.
  
 ### The Data 
-refers to the relevant data sources that I will cleaned, processed, and used to generate interesting insights for the business.
+Refers to the relevant data sources that I will cleaned, processed, and used to generate interesting insights for the business.

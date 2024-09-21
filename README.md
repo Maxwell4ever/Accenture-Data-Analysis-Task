@@ -1,30 +1,43 @@
 # Accenture-Data-Analysis-Task 1
+### Business problem that Accenture is tasked to address for this project?
+The client stated that scale was a big problem of theirs and they are struggling to manage the scale with the resources that they currently have. The brief said that the client is looking for help with the management of their journey into such a large scale.
+
+### Three requirements that Accenture is tasked to fulfill for this project?
+Audit of big data practice,
+Recommendations for IPO, 
+Analysis of popular content.
 
 Meet Accenture team, including the industry, IPO and data experts.
+#### Industry experts in the social media space to ensure we accurately understand Social Buzz’s sector.
+#### IPO experts who will deliver on the IPO requirement
+#### Data experts who will provide Big Data insights and content category analysis. This is where I sit!
 
-Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks I need to focus on as a data analyst.
+### TASK: Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks I need to focus on as a data analyst.
 
-## What I learnt
+### What I learnt
 
-What are the responsibilities of a Data Analyst at Accenture.
+The responsibilities of a Data Analyst at Accenture.
 
-What is a typical project team structure.
+A typical project team structure.
 
 How to review a client project brief
 
-# Background (Here are some key facts about this program:)
+## Background (Here are some key facts about this program:)
 
 I am working as a Data Analyst at Accenture.
 I work within a larger team, where each member has a different role and level of responsibility.
 My team has been assigned a new project for a client called Social Buzz.
 
-# Read the brief to:
+## Read the brief to:
 
 Understand the client and business problem at hand.
 Identify the requirements that need to be delivered for this project.
 Identify which tasks to focus on as a Data Analyst.
 
-## What do we mean by that?
+### What do we mean by that?
+
+## the most relevant to me as a data analyst, and therefore which one will I work on?
+# Analysis of sample data sets with visualizations to understand the popularity of different content categories
 
 ### The Business: 
 Refers to the client and my internal team members who won’t be involved in detailed data analysis.

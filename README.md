@@ -32,4 +32,4 @@ They rely on my analysis to make strategic business decisions.
 Importantly, not everyone had a strong understanding of data. My job is to communicate my data findings simply and clearly for everyone to understand.
  
 ### The Data 
-Refers to the relevant data sources that I will cleaned, processed, and used to generate interesting insights for the business.
+Refers to the relevant data sources that I cleaned, processed, and used to generate interesting insights for the business.
